@@ -1,9 +1,11 @@
-### Hi, I'm Santiago
+### santi
 
-Indie dev shipping mobile apps with AI. Building in public.
+shipping mobile apps with ai. building in public.
 
-**Now** — getting my first app ready for Google Play  
-**Stack** — Python · JavaScript · HTML/CSS · Flutter/Dart  
-**Into** — e/acc, software, apps
+```
+now    → first app in closed testing on google play
+stack  → flutter · dart · python · javascript
+into   → e/acc, software, apps
+```
 
-Follow the journey on [X](https://x.com/SantiagoPugelj)
+[x.com/santiagopugelj](https://x.com/santiagopugelj)
